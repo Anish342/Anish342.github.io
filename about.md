@@ -7,7 +7,7 @@ background: '/img/bg-about.jpg'
 
 I’m Ambreth Anish, currently pursuing my final year of undergraduate studies majoring in Mathematics and Computing at the Indian Institute of Technology, Hyderabad.
 
-My research and academic interests lies in the domain Machine Learning and Stastics. I am interested in research areas such as dimentionality reduction methods, data analysis and exploring math behind machine learning models.
+My research and academic interests lies in the domain Machine Learning and Stastics. I am interested in research areas such as dimentionality reduction methods, data analysis and exploring math behind machine learning models. Aside from my formal interests in these areas, I also take interest in fluid dyamics and Partial differential equations.
 
 **Research Interests:**
 * Dimentionality Reduction
