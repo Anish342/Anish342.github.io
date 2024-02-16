@@ -15,4 +15,4 @@ My research and academic interests lies in the domain Machine Learning and Stast
 * Math behind ML
 
 **Personal Interests:**
-During my free time, I enjoy playing basketball, and have been to participate in national competitions.
+I enjoy playing basketball, and have been to multiple national level competitions.
