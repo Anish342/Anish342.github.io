@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects and Work Experience
-background: '/img/bg-about.jpg'
+background: '/img/img-pro.jpg'
 ---
 
 **Experience**
