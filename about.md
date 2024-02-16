@@ -15,6 +15,4 @@ My research and academic interests lies in the domain Machine Learning and Stast
 * Math behind ML
 
 **Personal Interests:**
-During my free time, I enjoy playing basketball, and actively participate in national competitions.
-
-I’m also interested in theories of astronomy and the fundamentals of physics, while also following the latest advancements in technology.
+During my free time, I enjoy playing basketball, and have been to participate in national competitions.
