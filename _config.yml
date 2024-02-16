@@ -1,19 +1,21 @@
 title:              Ambreth Anish
 email:              anish432a@gmail.com
-description:        Portfolio
+description:        >
+  Final year undergraduate student pursuing Mathematics and Computing
+  Indian Institute of Technology, Hyderabad
 author:             Anish
 baseurl:            ""
 url:                "https://anish342.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+twitter_username:   
+github_username: Anish342
+facebook_username:  
 instagram_username:  
-linkedin_username:
+linkedin_username: anish-a-5193b1217
 
 # Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+google_analytics:    # out your google-analytics code
 
 # Build settings
 markdown:           kramdown
