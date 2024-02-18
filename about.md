@@ -16,4 +16,4 @@ My research and academic interests lies in the domain Machine Learning and Stast
 
 **Personal Interests:**  
 I enjoy playing basketball, and have been to multiple national level competitions.
-I have a passion for music, delighting in both the experience of listening and the excitement of exploring new genres and discovering fresh tracks to add to my playlist.
+I also have a passion for music, delighting in both the experience of listening and the excitement of exploring new genres and discovering fresh tracks to add to my playlist.
