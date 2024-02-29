@@ -5,12 +5,12 @@ background: '/img/img-pro.jpg'
 ---
 
 **Experience**
-* **Intern at Denso International India** *<span style="font-size: 18px;">(May '23 - July '23)</span>*
+* **Intern at Denso International India** <span style="font-size: 18px;">Gurugram, India</span> *<span style="font-size: 18px;">(May '23 - July '23)</span>*
     * <span style="font-size: 15px;">Developed software to analyse the malfunction in the car using the ECU data for Suzuki’s motors and display the error codes and also show the dynamic data for visualization.</span>
     * <span style="font-size: 15px;">Built software for character recognition in model drawings using Pytesseract.</span>
     * <span style="font-size: 15px;">Built software for ADAS data collection and data viewing from the cameras and syncing it with the GPS data of the car.</span>
     * <span style="font-size: 15px;">Continued part-time till *Sept ’23*</span>
-* **Optimization Intern at Santa Fe Research**     *<span style="font-size: 18px;">(Jun '22-Aug '22)</span>*
+* **Optimization Intern at Santa Fe Research** <span style="font-size: 18px;">IIT Madras, India</span>    *<span style="font-size: 18px;">(Jun '22-Aug '22)</span>*
     * <span style="font-size: 15px;">Worked on a research project based on vehicle routing with time, capacity and dimension constraints. Came up with a feasible solution using Google’s or-tools and integrated it with 3D-Bin packing(for item packing in the vehicle container) using the Py3dbp library.</span>
     * <span style="font-size: 15px;">Continued part-time till *Oct ’22*</span>
 
