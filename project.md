@@ -25,8 +25,8 @@ background: '/img/img-pro.jpg'
     * <span style="font-size: 15px;">The code can be found here: <a href="https://github.com/Anish342/3d-bin-packing-using-MIP" target = '_blank'><span style="text-decoration: underline; color: black;">Code</span></a></span>
 * **Study of differential equations in fluid dynamics**
     * <span style="font-size: 15px;">Worked on fluid dynamics and fluid flows using partial differential equations</span>
-    * <span style="font-size: 15px;">Report and Code can be found here: <a href="https://github.com/Anish342/Study-of-differential-equations-in-fluid-dynamics-and-solute-dispersion-" target = '_blank'><span style="text-decoration: underline; color: black;">Report</span></a><</span>
+    * <span style="font-size: 15px;">Report and Code can be found here: <a href="https://github.com/Anish342/Study-of-differential-equations-in-fluid-dynamics-and-solute-dispersion-" target = '_blank'><span style="text-decoration: underline; color: black;">Report</span></a></span>
 * **Multidimensional Scaling using Majorization**
     * <span style="font-size: 15px;">Dimension Reduction using Multidimensional scaling with the use of Majorization theorem and checking it’s performance.</span>
-    * <span style="font-size: 15px;">Report and Code can be found here: <a href="https://github.com/Anish342/Multidimensional-Scaling-with-Majorization" target = '_blank'><span style="text-decoration: underline; color: black;">Report</span></a><</span>
+    * <span style="font-size: 15px;">Report and Code can be found here: <a href="https://github.com/Anish342/Multidimensional-Scaling-with-Majorization" target = '_blank'><span style="text-decoration: underline; color: black;">Report</span></a></span>
 
