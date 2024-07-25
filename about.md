@@ -5,9 +5,9 @@ background: '/img/bg-about.jpg'
 ---
 **Welcome to my Website!**
 
-I’m Anish, currently pursuing my final year of undergraduate studies majoring in Mathematics and Computing at the <a href="https://www.iith.ac.in" target = "_blank">Indian Institute of Technology (IIT), Hyderabad</a>.
+I’m Anish, currently pursuing my Masters in Machine Learning from <a href="https://mbzuai.ac.ae" target = "_blank"> MBZUAI | Undergaduate degree in Mathematics and Computing from the <a href="https://www.iith.ac.in" target = "_blank">Indian Institute of Technology (IIT), Hyderabad</a>.
 
-My research and academic interests lie in the domain machine learning and statistics. I love to delve into research areas encompassing dimensionality reduction methods, data analysis, and the underlying mathematical intricacies of machine learning models. Aside from my formal interests in these areas, I'm also drawn to differential equations in the domain of fluid dynamics.
+My research and academic interests lie in the domain machine learning and statistics. I love to delve into research areas encompassing dimensionality reduction methods, data analysis, and the underlying mathematical intricacies of machine learning models.
 
 **Research Interests:**
 * Dimensionality Reduction
