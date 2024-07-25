@@ -11,11 +11,11 @@ background: '/img/img-pro.jpg'
     * <span style="font-size: 15px;">Conducted comprehensive evaluations using the Retrieval-Augmented Generation (RAG) method, integrating RAGA's evaluation techniques to rigorously assess and enhance model quality and accuracy.</span>
     * <span style="font-size: 15px;">Designed and optimized the LangGraph pipeline, alongside sophisticated user session management workflows, to streamline complex language processing tasks and enhance overall user experience and interaction continuity.</span>
 * **Intern at Denso International India** *<span style="font-size: 15px;">- Gurugram, India (May '23 - July '23)</span>*
-    * <span style="font-size: 15px;">Developed software to analyse the malfunction in the car using the ECU data for Suzuki’s motors and display the error codes and also show the dynamic data for visualization.</span>
-    * <span style="font-size: 15px;">Built software for character recognition in model drawings using Pytesseract.</span>
-    * <span style="font-size: 15px;">Built software for ADAS data collection and data viewing from the cameras and syncing it with the GPS data of the car.</span>
-* **Optimization Intern at Santa Fe Research** *<span style="font-size: 15px;">- IIT Madras, India (Jun '22-Aug '22)</span>*
-    * <span style="font-size: 15px;">Worked on a research project based on vehicle routing with time, capacity and dimension constraints. Came up with a feasible solution using Google’s or-tools and integrated it with 3D-Bin packing(for item packing in the vehicle container) using the Py3dbp library.</span>
+    * <span style="font-size: 15px;">Engineered a robust software solution for analyzing vehicle malfunctions using ECU data for Suzuki Motors. The software accurately displayed error codes and provided dynamic data visualization for enhanced diagnostics.</span>
+    * <span style="font-size: 15px;">Developed a software application utilizing Pytesseract for accurate character recognition in engineering model drawings, streamlining the process of digitizing and interpreting technical information.</span>
+    * <span style="font-size: 15px;">Created a comprehensive software application for Advanced Driver-Assistance Systems (ADAS) data collection. Integrated camera data with GPS information to facilitate precise data viewing and synchronization.</span>
+* **Research Intern at Santa Fe Research** *<span style="font-size: 15px;">- IIT Madras, India (Jun '22-Aug '22)</span>*
+    * <span style="font-size: 15px;">Conducted a research project focused on optimizing vehicle routing with constraints on time, capacity, and dimensions. Developed a feasible solution using Google’s OR-Tools and seamlessly integrated 3D-bin packing for item arrangement within vehicle containers using the Py3dbp library.</span>
 
 **Projects**
 * **Quantitative Analysis of Time Series Methods Performance**
