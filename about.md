@@ -15,5 +15,5 @@ My research and academic interests lie in the domain machine learning and statis
 * Mathematical Foundations of Machine Learning
 
 **Personal Interests:**  
-I enjoy playing basketball, and have been to multiple national level competitions.
+I enjoy playing basketball, and have been to national level competitions and secured 4th place twice.
 I also have a passion for music, delighting in both the experience of listening and the excitement of exploring new genres and discovering fresh tracks to add to my playlist.
