@@ -5,14 +5,17 @@ background: '/img/img-pro.jpg'
 ---
 
 **Experience**
+* **Machine Learning Intern at Proshort** *<span style="font-size: 15px;">- Bangalore, India (June '24 - July '24)</span>*
+    * <span style="font-size: 15px;">Fine-tuning and quantization of advanced large language models (LLaMA-3-8B and Phi3-mini-128k-Instruct) using state-of-the-art tools including Hugging Face and Weights & Biases, achieving significant improvements in model efficiency and performance.</span>
+    * <span style="font-size: 15px;">Deployed quantized models through the implementation of Docker, ollama and FastAPI, ensuring robust, scalable, and efficient model deployment and usability.</span>
+    * <span style="font-size: 15px;">Conducted comprehensive evaluations using the Retrieval-Augmented Generation (RAG) method, integrating RAGA's evaluation techniques to rigorously assess and enhance model quality and accuracy.</span>
+    * <span style="font-size: 15px;">Designed and optimized the LangGraph pipeline, alongside sophisticated user session management workflows, to streamline complex language processing tasks and enhance overall user experience and interaction continuity.</span>
 * **Intern at Denso International India** *<span style="font-size: 15px;">- Gurugram, India (May '23 - July '23)</span>*
     * <span style="font-size: 15px;">Developed software to analyse the malfunction in the car using the ECU data for Suzuki’s motors and display the error codes and also show the dynamic data for visualization.</span>
     * <span style="font-size: 15px;">Built software for character recognition in model drawings using Pytesseract.</span>
     * <span style="font-size: 15px;">Built software for ADAS data collection and data viewing from the cameras and syncing it with the GPS data of the car.</span>
-    * <span style="font-size: 15px;">Continued part-time till *Sept ’23*</span>
 * **Optimization Intern at Santa Fe Research** *<span style="font-size: 15px;">- IIT Madras, India (Jun '22-Aug '22)</span>*
     * <span style="font-size: 15px;">Worked on a research project based on vehicle routing with time, capacity and dimension constraints. Came up with a feasible solution using Google’s or-tools and integrated it with 3D-Bin packing(for item packing in the vehicle container) using the Py3dbp library.</span>
-    * <span style="font-size: 15px;">Continued part-time till *Oct ’22*</span>
 
 **Projects**
 * **Quantitative Analysis of Time Series Methods Performance**
