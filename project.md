@@ -6,9 +6,9 @@ background: '/img/img-pro.jpg'
 
 **Experience**
 * **Machine Learning Intern at Proshort** *<span style="font-size: 15px;">- Bangalore, India (June '24 - July '24)</span>*
-    * <span style="font-size: 15px;">Fine-tuning and quantization of advanced large language models (LLaMA-3-8B and Phi3-mini-128k-Instruct) using state-of-the-art tools including Hugging Face and Weights & Biases, achieving significant improvements in model efficiency and performance.</span>
+    * <span style="font-size: 15px;">Fine-tuning and quantization of advanced large language models (LLaMA-3-8B and Phi3-mini-128k-Instruct) using state-of-the-art tools including Hugging Face, unsloth and Weights \& Biases, achieving significant improvements in model efficiency and performance.</span>
     * <span style="font-size: 15px;">Deployed quantized models through the implementation of Docker, ollama and FastAPI, ensuring robust, scalable, and efficient model deployment and usability.</span>
-    * <span style="font-size: 15px;">Conducted comprehensive evaluations using the Retrieval-Augmented Generation (RAG) method, integrating RAGA's evaluation techniques to rigorously assess and enhance model quality and accuracy.</span>
+    * <span style="font-size: 15px;">Conducted comprehensive evaluations using ROUGE-2 score and also by Retrieval-Augmented Generation (RAG) method, integrating RAGA’s evaluation techniques to rigorously assess and enhance model quality and accuracy.</span>
     * <span style="font-size: 15px;">Designed and optimized the LangGraph pipeline, alongside sophisticated user session management workflows, to streamline complex language processing tasks and enhance overall user experience and interaction continuity.</span>
 * **Intern at Denso International India** *<span style="font-size: 15px;">- Gurugram, India (May '23 - July '23)</span>*
     * <span style="font-size: 15px;">Engineered a robust software solution for analyzing vehicle malfunctions using ECU data for Suzuki Motors. The software accurately displayed error codes and provided dynamic data visualization for enhanced diagnostics.</span>
