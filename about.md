@@ -7,7 +7,7 @@ background: '/img/bg-about.jpg'
 
 I'm Anish, currently pursuing my Master's in Machine Learning at <a href="https://mbzuai.ac.ae" target = "_blank"> MBZUAI</a>.  I hold an undergraduate degree in Mathematics and Computing and Engineering Science from the <a href="https://www.iith.ac.in" target = "_blank">Indian Institute of Technology (IIT), Hyderabad</a>.
 
-My research and academic interests lie in the domain of machine learning, natural language processing and statistics. I love to delve into research areas encompassing dimensionality reduction methods, applied machine learning and artificial intelligence, Internet of Things (IoT), and the underlying mathematical intricacies of machine learning models.
+My research and academic interests lie in the domain of machine learning, natural language processing and statistics. I love to delve into research areas encompassing dimensionality reduction methods, applied machine learning, Internet of Things (IoT), and also on different LLM based agents.
 
 **Research Interests:**
 * LLM's on the edge
