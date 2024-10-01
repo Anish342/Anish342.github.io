@@ -10,9 +10,9 @@ I'm Anish, currently pursuing my Master's in Machine Learning at <a href="https:
 My research and academic interests lie in the domain of machine learning, natural language processing and statistics. I love to delve into research areas encompassing dimensionality reduction methods, applied machine learning and artificial intelligence, Internet of Things (IoT), and the underlying mathematical intricacies of machine learning models.
 
 **Research Interests:**
-* Dimensionality Reduction
-* Applied Machine Learning
-* LLM Trustworthiness
+* LLM's on the edge
+* Privacy in Edge LLMs
+* LLM based agents
 
 **Personal Interests:**  
 * I enjoy playing basketball, and have been to national level competitions and secured 4th place twice.
