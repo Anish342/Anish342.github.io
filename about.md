@@ -10,8 +10,8 @@ I'm Anish, currently pursuing my Master's in Machine Learning at <a href="https:
 My research and academic interests lie in the domain of machine learning, natural language processing and statistics. I love to delve into research areas encompassing Privacy, applied machine learning, Internet of Things (IoT), and also on different LLM based agents.
 
 **Research Interests:**
-* LLM's on the edge
-* Privacy in Edge LLMs
+* AI on the edge
+* Privacy in Edge AI
 * LLM based agents
 
 **Personal Interests:**  
