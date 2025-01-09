@@ -18,6 +18,10 @@ background: '/img/img-pro.jpg'
     * <span style="font-size: 15px;">Conducted a research project focused on optimizing vehicle routing with constraints on time, capacity, and dimensions. Developed a feasible solution using Google’s OR-Tools and seamlessly integrated 3D-bin packing for item arrangement within vehicle containers using the Py3dbp library.</span>
 
 **Projects**
+* **Quantitative Reasoning for Text-to-Image Generation**
+    * <span style="font-size: 15px;">Improving the quantitative reasoning capabilities of text-to-image models, specifically addressing challenges in counting accuracy, size proportionality, and fractional representation.</span>
+    * <span style="font-size: 15px;">Curated a benchmark dataset of 350 high-quality prompt-image pairs.</span>
+    * <span style="font-size: 15px;">Fine-tuned Stable Diffusion XL using LoRA adaptations and Direct Preference Optimization (DPO), achieving substantial improvements in metrics.</span>
 * **Quantitative Analysis of Time Series Methods Performance**
     * <span style="font-size: 15px;">Conducted quantitative analysis of time series methods on volatility of Gold, S&P500, and Bitcoin prices from 2015 - 2023.</span>
     * <span style="font-size: 15px;">Leveraged Plotly and Matplotlib for EDA and LSTM, ARIMA, Prophet, and XGBoost models for data forecasting.</span>
