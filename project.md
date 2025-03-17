@@ -21,21 +21,17 @@ background: '/img/img-pro.jpg'
     * <span style="font-size: 15px;">Conducted a research project focused on optimizing vehicle routing with constraints on time, capacity, and dimensions. Developed a feasible solution using Google’s OR-Tools and seamlessly integrated 3D-bin packing for item arrangement within vehicle containers using the Py3dbp library.</span>
 
 **Projects**
-* **Quantitative Reasoning for Text-to-Image Generation**
+* **<a href="https://drive.google.com/file/d/1E-tmzPiKIyQkrK9mbqWngNT79cCxijCg/view?usp=sharing" target = '_blank'><span style="color: purple;">Quantitative Reasoning for Text-to-Image Generation</span></a>**
     * <span style="font-size: 15px;">Improving the quantitative reasoning capabilities of text-to-image models, specifically addressing challenges in counting accuracy, size proportionality, and fractional representation.</span>
     * <span style="font-size: 15px;">Curated a benchmark dataset of 350 high-quality prompt-image pairs.</span>
     * <span style="font-size: 15px;">Fine-tuned Stable Diffusion XL using LoRA adaptations and Direct Preference Optimization (DPO), achieving substantial improvements in metrics.</span>
 * **<a href="https://github.com/Anish342/Forecasting" target = '_blank'><span style="color: purple;">Quantitative Analysis of Time Series Methods Performance</span></a>**
     * <span style="font-size: 15px;">Conducted quantitative analysis of time series methods on volatility of Gold, S&P500, and Bitcoin prices from 2015 - 2023.</span>
     * <span style="font-size: 15px;">Leveraged Plotly and Matplotlib for EDA and LSTM, ARIMA, Prophet, and XGBoost models for data forecasting.</span>
-* **Mixed Integer Programming for 3D-bin packing problems**
+* **<a href="https://github.com/Anish342/3d-bin-packing-using-MIP" target = '_blank'><span style="color: purple;">Mixed Integer Programming for 3D-bin packing problems</span></a>**
     * <span style="font-size: 15px;">3D bin packing using Mixed Interger Programming in python using ortools(SCIP backend).</span>
     * <span style="font-size: 15px;">Research Paper: <a href="https://github.com/Anish342/3d-bin-packing-using-MIP/blob/main/1-s2.0-037722179400002T-main.pdf" target = '_blank'>An Analytical model for the container loading problem</a></span>
-    * <span style="font-size: 15px;">The code can be found here: <a href="https://github.com/Anish342/3d-bin-packing-using-MIP" target = '_blank'><span style="text-decoration: underline; color: black;">Code</span></a></span>
-* **Study of differential equations in fluid dynamics**
+* **<a href="https://github.com/Anish342/Study-of-differential-equations-in-fluid-dynamics-and-solute-dispersion-" target = '_blank'><span style="color: purple;">Study of differential equations in fluid dynamics</span></a>**
     * <span style="font-size: 15px;">Worked on fluid dynamics and fluid flows using partial differential equations</span>
-    * <span style="font-size: 15px;">Report and Code can be found here: <a href="https://github.com/Anish342/Study-of-differential-equations-in-fluid-dynamics-and-solute-dispersion-" target = '_blank'><span style="text-decoration: underline; color: black;">Report</span></a></span>
-* **Multidimensional Scaling using Majorization**
+* **<a href="https://github.com/Anish342/Multidimensional-Scaling-with-Majorization" target = '_blank'><span style="color: purple;">Multidimensional Scaling using Majorization</span></a>**
     * <span style="font-size: 15px;">Dimension Reduction using Multidimensional scaling with the use of Majorization theorem and checking it’s performance.</span>
-    * <span style="font-size: 15px;">Report and Code can be found here: <a href="https://github.com/Anish342/Multidimensional-Scaling-with-Majorization" target = '_blank'><span style="text-decoration: underline; color: black;">Report</span></a></span>
-
