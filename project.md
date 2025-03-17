@@ -30,7 +30,7 @@ background: '/img/img-pro.jpg'
     * <span style="font-size: 15px;">Leveraged Plotly and Matplotlib for EDA and LSTM, ARIMA, Prophet, and XGBoost models for data forecasting.</span>
 * **<a href="https://github.com/Anish342/3d-bin-packing-using-MIP" target = '_blank'><span style="color: purple;">Mixed Integer Programming for 3D-bin packing problems</span></a>**
     * <span style="font-size: 15px;">3D bin packing using Mixed Interger Programming in python using ortools(SCIP backend).</span>
-    * <span style="font-size: 15px;">Research Paper: <a href="https://github.com/Anish342/3d-bin-packing-using-MIP/blob/main/1-s2.0-037722179400002T-main.pdf" target = '_blank'>An Analytical model for the container loading problem</a></span>
+    * <span style="font-size: 15px;">Research Paper: <a href="https://github.com/Anish342/3d-bin-packing-using-MIP/blob/main/1-s2.0-037722179400002T-main.pdf" target = '_blank'><span style="text-decoration: underline;">An Analytical model for the container loading problem</span></a></span>
 * **<a href="https://github.com/Anish342/Study-of-differential-equations-in-fluid-dynamics-and-solute-dispersion-" target = '_blank'><span style="color: purple;">Study of differential equations in fluid dynamics</span></a>**
     * <span style="font-size: 15px;">Worked on fluid dynamics and fluid flows using partial differential equations</span>
 * **<a href="https://github.com/Anish342/Multidimensional-Scaling-with-Majorization" target = '_blank'><span style="color: purple;">Multidimensional Scaling using Majorization</span></a>**
