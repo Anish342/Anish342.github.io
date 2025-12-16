@@ -7,12 +7,12 @@ background: '/img/bg-about.jpg'
 
 I'm Anish, currently pursuing my Master's in Machine Learning at <a href="https://mbzuai.ac.ae" target = "_blank"> MBZUAI</a>.  I hold an undergraduate degree in Mathematics and Computing and Engineering Science from the <a href="https://www.iith.ac.in" target = "_blank">Indian Institute of Technology (IIT), Hyderabad</a>.
 
-My research and academic interests lie in the domain of machine learning, natural language processing and statistics. I love to delve into research areas encompassing Privacy, applied machine learning, Internet of Things (IoT), and also on different LLM based agents.
+I focus on applied ML for quantitative modelling such as forecasting, time-series analysis, and building agent-based systems that automate the early stages of a quant/analyst workflow. I’m interested in intelligent pipelines that can process information, assess relevance, and surface actionable signals in real time.
 
 **Research Interests:**
-* AI on the edge
-* Privacy in Edge AI
-* LLM based agents
+* Quantitative ML (Forecasting, Time-Series)
+* Agent-Based Analytical Automation
+* Signal Extraction & Decision Systems
 
 **Personal Interests:**  
 * I enjoy playing basketball, and have been to national level competitions and secured 4th place twice.
