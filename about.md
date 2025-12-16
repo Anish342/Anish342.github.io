@@ -15,6 +15,5 @@ I focus on applied ML for quantitative modelling such as forecasting, time-serie
 * Signal Extraction & Decision Systems
 
 **Personal Interests:**  
-* I enjoy playing basketball, and have been to national level competitions and secured 4th place twice.
-* Part of the Volleyball and Basketball team at MBZUAI and IIT Hyderabad.
-* I also have a passion for music, delighting in both the experience of listening and the excitement of exploring new genres and discovering fresh tracks to add to my playlist.
+* I enjoy playing basketball, and have been to national level competitions.
+* Love to do mental arthmetic for fun.

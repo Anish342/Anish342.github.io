@@ -5,6 +5,12 @@ background: '/img/img-pro.jpg'
 ---
 
 **Experience**
+* **Research Intern at MyZoi - Standard Chartered Ventures** *<span style="font-size: 15px;">- Dubai, UAE (Jul '25 - Aug '25)</span>*
+    * <span style="font-size: 15px;">Researched on predictive modelling for Forex pricing in South Asian currencies (PKR, INR, NPR)</span>
+    * <span style="font-size: 15px;">Analyzed competitor exchange rates to design data-driven strategies for more attractive pricing.</span>
+* **Research Intern at Dubai Health** *<span style="font-size: 15px;">- Abu Dhabi, UAE (Apr '25 - Jun '25)</span>*
+    * <span style="font-size: 15px;">Developed and deployed a lightweight snoring detection algorithm on ESP Sense for sleep monitoring.</span>
+    * <span style="font-size: 15px;">Achieved 99% reduction in storage/processing and 50% lower power consumption compared to phone-based app approaches.</span>
 * **Data Science Intern at ADNOC** *<span style="font-size: 15px;">- Abu Dhabi, UAE (Jan '25 - Mar '25)</span>*
     * <span style="font-size: 15px;">Automated forecasting, cutting manual research time by 90%, by developing a pipeline to fetch, analyze, and score emerging technologies.</span>
     * <span style="font-size: 15px;">Implemented an LLM-powered evaluation system, to summarize and rank innovations, delivering real-time insights via a dashboard.</span>
