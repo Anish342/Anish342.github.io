@@ -7,7 +7,7 @@ background: '/img/bg-about.jpg'
 
 I'm Anish, currently pursuing my Master's in Machine Learning at <a href="https://mbzuai.ac.ae" target = "_blank"> MBZUAI</a>.  I hold an undergraduate degree in Mathematics and Computing and Engineering Science from the <a href="https://www.iith.ac.in" target = "_blank">Indian Institute of Technology (IIT), Hyderabad</a>.
 
-I focus on applied ML for quantitative modelling such as forecasting, time-series analysis, and building agent-based systems that automate mutliple stages of a workflow. I’m interested in intelligent pipelines that can process information, assess relevance, and surface actionable signals in real time.
+I focus on applied ML for quantitative modelling such as forecasting, time-series analysis, and building agent-based systems that automate multiple stages of a workflow. I’m interested in intelligent pipelines that can process information, assess relevance, and surface actionable signals in real time.
 
 **Research Interests:**
 * Quantitative ML (Forecasting, Time-Series)
