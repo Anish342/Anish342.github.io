@@ -11,9 +11,11 @@ redirect_from:
 
 ## Welcome to my webpage!
 
-I am a Master's student in Machine Learning at [MBZUAI](https://mbzuai.ac.ae), advised by [Prof. Mohsen Guizani](https://mbzuai.ac.ae/study/faculty/mohsen-guizani/) and working closely with [Dr. Nils Lukas](https://nilslukas.github.io/). I completed my undergraduate degree at [IIT Hyderabad](https://www.iith.ac.in) in Mathematics & Computing and Engineering Sciences.
+I am an incoming PhD student at [MBZUAI](https://mbzuai.ac.ae).
 
-My research focuses on trustworthy ML — federated learning, adversarial robustness, and IP protection of neural networks. Alongside this, I have worked on quantitative ML problems in industry, including alpha factor mining, options pricing, FX dynamics, and time-series forecasting.
+Currently, I am a Master's student in Machine Learning at [MBZUAI](https://mbzuai.ac.ae), advised by [Prof. Mohsen Guizani](https://mbzuai.ac.ae/study/faculty/mohsen-guizani/) and working closely with [Dr. Nils Lukas](https://nilslukas.github.io/). My research focuses on trustworthy ML — federated learning, adversarial robustness, and IP protection of neural networks. Prior to this, I graduated from [IIT Hyderabad](https://www.iith.ac.in) with a B.Tech in Mathematics & Computing and Engineering Sciences.
+
+Beyond research, I am deeply interested in quantitative finance. I have worked on alpha factor mining for predictive trading models, options pricing, FX dynamics modeling, and time-series forecasting across internships in the UAE and Dubai. My long-term goal is to bring the rigor of ML research — particularly around uncertainty, robustness, and probabilistic modeling — into systematic trading and quantitative research.
 
 You can contact me at: ambrethanish[AT]gmail[DOT]com
 
