@@ -18,6 +18,4 @@ I work at the intersection of machine learning theory and security, with a focus
 <li> Uncertainty quantification and probabilistic modeling </li>
 </ul>
 
-### Other Interests
-
-Beyond research, I am deeply interested in quantitative finance. I have worked on alpha factor mining for predictive trading models, options pricing, FX dynamics modeling, and time-series forecasting across internships in the UAE. My long-term goal is to bring the rigor of ML research — particularly around uncertainty, robustness, and probabilistic modeling — into systematic trading and quantitative research.
+Beyond this, I am deeply interested in quantitative finance. I have worked on alpha factor mining for predictive trading models, options pricing, FX dynamics modeling, and time-series forecasting across internships in the UAE. My long-term goal is to bring the rigor of ML research — particularly around uncertainty, robustness, and probabilistic modeling — into systematic trading and quantitative research.
