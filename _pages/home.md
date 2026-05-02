@@ -11,7 +11,7 @@ redirect_from:
 
 ## Welcome to my webpage!
 
-I am an incoming PhD student at [MBZUAI](https://mbzuai.ac.ae).
+I am an incoming PhD student in the Department of Machine Learning at [MBZUAI](https://mbzuai.ac.ae).
 
 Currently, I am a Master's student in Machine Learning at [MBZUAI](https://mbzuai.ac.ae), advised by [Prof. Mohsen Guizani](https://mbzuai.ac.ae/study/faculty/mohsen-guizani/) and [Dr. Nils Lukas](https://nilslukas.github.io/). My research focuses on trustworthy ML — federated learning , adversarial robustness and agentic security.
 
