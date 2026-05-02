@@ -13,7 +13,7 @@ redirect_from:
 
 I am an incoming PhD student at [MBZUAI](https://mbzuai.ac.ae).
 
-Currently, I am a Master's student in Machine Learning at [MBZUAI](https://mbzuai.ac.ae), advised by [Prof. Mohsen Guizani](https://mbzuai.ac.ae/study/faculty/mohsen-guizani/) and working closely with [Dr. Nils Lukas](https://nilslukas.github.io/). My research focuses on trustworthy ML — federated learning, adversarial robustness, and IP protection of neural networks.
+Currently, I am a Master's student in Machine Learning at [MBZUAI](https://mbzuai.ac.ae), advised by [Prof. Mohsen Guizani](https://mbzuai.ac.ae/study/faculty/mohsen-guizani/) and [Dr. Nils Lukas](https://nilslukas.github.io/). My research focuses on trustworthy ML — federated learning and adversarial robustness.
 
 Prior to this, I graduated from [IIT Hyderabad](https://www.iith.ac.in) with a B.Tech in Mathematics & Computing and Engineering Sciences.
 
