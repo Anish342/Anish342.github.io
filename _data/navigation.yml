@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Interests"
+    url: /interests/
 
   - title: "Experience"
     url: /experience/
 
-  - title: "CV"
-    url: "https://drive.google.com/file/d/1JK6PyUpZ6bh9cbOEhuBWvMHoJL5HUDPH/view?usp=sharing"
+  - title: "Publications"
+    url: /publications/
