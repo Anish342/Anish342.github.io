@@ -1,49 +1,55 @@
 ---
-permalink: /teaching/
+permalink: /experience/
 layout: single
 read_time: false
 comments: false
 share: false
 ---
 
-I have a genuine passion for teaching. I strongly believe that the only way to truly master a concept is to teach the ideas' breadth and depth to another person from scratch.
-
-Fortunately, I have had the opportunity to be a teaching assistant for several undergraduate and postgraduate courses at IIT Hyderabad. 
-
-
-## Teaching Assistant
-
-The duties of a Teaching Assistant included solving the doubts of the students and assisting the professors in carrying out the course smoothly from a grading perspective. For a few courses, I was entrusted with additional responsibilities, such as conducting tutorials, creating assignments, and even delivering lectures. 
-
-I have been a TA for the following courses:
+## Experience
 
 <ul>
 
-<li> <b>Programming with AI</b> (Spring '24) 
-    <p> Course Instructor: <a href = "https://karthikpn.com"> Dr. P.N. Karthik </a> </p>
-    <p>In addition to the duties of a TA, I was also allowed to give an entire lecture on Clustering and Backpropagation, apart from assisting in the creation of questions for the assignments. </p>
+<li> <b>ML Quantitative Research Intern</b> – Vatic Labs (UAE) &nbsp; Jan 2026 – Apr 2026
+<p>
+Developed a research pipeline for alpha factor mining from raw order book data using a multi-agent system. Incorporated generated factors into predictive time-series models including TCNs and LSTMs. Supported the buildout of an end-to-end systematic trading research workflow from signal generation to model evaluation.
+</p>
 </li>
 
-<li> <b>Operating Systems - 1</b> (Fall '23)
-    <p> Course Instructor: <a href = "https://people.iith.ac.in/sathya_p/"> Dr. Sathya Peri </a> </p>
+<li> <b>ML Quantitative Research Intern</b> – Standard Chartered (UAE) &nbsp; Jul 2025 – Aug 2025
+<p>
+Built predictive models for FX rate dynamics (PKR, INR, NPR) with a focus on robustness. Engineered and evaluated feature sets derived from market and competitor pricing data to support return-sensitive pricing decisions.
+</p>
 </li>
 
-<li> <b>Reinforcement Learning</b> (Fall '23)
-    <p> Course Instructor: <a href = "https://www.linkedin.com/in/easwar-subramanian/?originalSubdomain=in"> Dr. Easwar Subramanian </a> </p>
+<li> <b>Research Intern</b> – Dubai Health (UAE) &nbsp; Apr 2025 – Jul 2025
+<p>
+Developed and deployed a lightweight snoring detection algorithm on ESP Sense for sleep monitoring. Achieved 99% reduction in storage/processing and 50% lower power consumption compared to phone-based approaches.
+</p>
 </li>
 
-<li> <b>Deep Learning</b> (Spring '23) 
-    <p> Course Instructor: <a href = "https://krmopuri.github.io"> Dr. Konda Reddy Mopuri </a> </p>
-    <p>In addition to the duties of a TA, I was allowed to conduct a series of tutorials for the students on OOPs in Python and introducing them to the basics of PyTorch with all teaching material made from scratch. </p>
+<li> <b>Data Science Intern</b> – ADNOC (UAE) &nbsp; Jan 2025 – Mar 2025
+<p>
+Built forecasting and scoring models on heterogeneous time-series and textual data to rank emerging technologies. Automated feature extraction and scoring pipelines, reducing manual analysis time by 90%.
+</p>
 </li>
 
-<li> <b>Data Structures and Applications </b>(Fall '22)
-    <p> Course Instructors: <a href = "https://sites.google.com/site/prataprameshwaryadav/?pli=1"> Dr. Rameshwar Pratap</a> and <a href = "https://people.iith.ac.in/maunendra/"> Dr. Maunendra Desarkar </a> </p>
+<li> <b>Machine Learning Intern</b> – Proshort (India) &nbsp; Jun 2024 – Aug 2024
+<p>
+Fine-tuned and quantized LLMs (LLaMA-3-8B, Phi3-mini-128k) in PyTorch. Deployed models using Docker and FastAPI, integrating RAG pipelines to improve response accuracy by 30%.
+</p>
 </li>
 
-<li> <b>Introduction to Programming</b> (Dec '21 - March '22)
-    <p> Course Instructors: <a href = "https://people.iith.ac.in/karteek/"> Dr. Karteek Sreenivasaiah</a> and <a href = "https://people.iith.ac.in/ramakrishna/"> Dr. Ramakrishna Upadrasta </a> </p>
+<li> <b>Software Developer Intern</b> – Denso International (India) &nbsp; May 2023 – Jul 2023
+<p>
+Built ECU data analysis software for Suzuki Motors, reducing manual analysis effort by 70%. Developed an ADAS data collection application integrating camera and GPS streams.
+</p>
+</li>
+
+<li> <b>Research Intern</b> – Santa Fe Research, IIT Madras &nbsp; May 2022 – Sep 2022
+<p>
+Optimized vehicle routing using OR-Tools with time, capacity, and dimensional constraints, integrating 3D bin packing to improve logistical efficiency.
+</p>
 </li>
 
 </ul>
-

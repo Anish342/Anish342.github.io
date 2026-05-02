@@ -1,39 +1,23 @@
-
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast"
 
-# Site Settings
 locale                   : "en-US"
-title                    : #"Tanmay Goyal"
-rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-url                      : "https://tanmaygoyal258.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-repository               : "tanmaygoyal258/tanmaygoyal258.github.io"  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+title                    : "Anish Ambreth"
+url                      : "https://anish342.github.io"
+repository               : "Anish342/Anish342.github.io"
 
-# SEO Related
-google_site_verification : "xNmBwe1yOrVh-pt0iQ7V3AhbtIKodVT2tJfAnRvkPW0"
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
-# Analytics
 analytics:
-  provider               : "google" # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google"
   google:
-    tracking_id          : "G-YFR9H3LV7Z"
-    anonymize_ip         : # true, false (default)
+    tracking_id          : "G-ST298WNNGN"
+    anonymize_ip         :
 
-
-# Site Author
 author:
   avatar           : "/assets/images/tanmay_2025_july.jpeg"
-  # name             : "Tanmay Goyal" 
-  linkedin         : "tanmay-goyal-57253a213"
-  github           : "tanmaygoyal258" 
-  google_scholar   : "citations?user=Jc57ZhcAAAAJ&hl=en"
-  cv               :  "/assets/cv/November_CV.pdf"
+  # name omitted — hides name under photo
+  linkedin         : "anish-ambreth"
+  cv               : "https://drive.google.com/file/d/1JK6PyUpZ6bh9cbOEhuBWvMHoJL5HUDPH/view?usp=sharing"
 
-
-
-# Reading Files
 include:
   - .htaccess
   - _pages
@@ -62,24 +46,20 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
+  - /docs
+  - /test
 keep_files:
   - .git
   - .svn
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-
-# Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-
-# Markdown Processing
 kramdown:
   input: GFM
   hard_wrap: false
@@ -90,54 +70,24 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-
-# Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: compressed
 
-
-# Outputting
 permalink: /:categories/:title/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:
 
-
-# Pagination with jekyll-paginate
-paginate: 5 # amount of posts to show
+paginate: 5
 paginate_path: /page:num/
 
-# Pagination with jekyll-paginate-v2
-# See https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
-#   for configuration details
-pagination:
-  # Set enabled to true to use paginate v2
-  # enabled: true
-  debug: false
-  collection: 'posts'
-  per_page: 10
-  permalink: '/page/:num/'
-  title: ':title - page :num'
-  limit: 0
-  sort_field: 'date'
-  sort_reverse: true
-  category: 'posts'
-  tag: ''
-  locale: ''
-  trail:
-    before: 2
-    after: 2
-
-
-# Plugins (previously gems:)
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-  - jekyll-titles-from-headings 
+  - jekyll-titles-from-headings
 
-# mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
@@ -150,47 +100,12 @@ titles_from_headings:
   strip_title: true
   collections: true
 
-
-# Archives
-#  Type
-#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
-#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
-#  Path (examples)
-#  - Archive page should exist at path when using Liquid method or you can
-#    expect broken links (especially with breadcrumbs enabled)
-#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path>/my-awesome-category/index.html ~> path: /
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
-# https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
-
-
-# HTML Compression
-# - https://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
     envs: development
 
-
-# Defaults
 defaults:
-   # _pages
   - scope:
       path: ""
       type: pages
@@ -198,7 +113,7 @@ defaults:
       layout: single
       author_profile: true
       strip_title: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      read_time: false
+      comments: false
+      share: false
+      related: false

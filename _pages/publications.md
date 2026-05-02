@@ -10,37 +10,32 @@ share: false
 
 <ol>
 
-    <li> <b> Contextual Slate GLM Bandits with Limited Adaptivity </b>
-    <p>
-    <b>Tanmay Goyal</b>, Sukruta Midigeshi, Gaurav Sinha
-    <br> <em>ICML 2026</em>
-    </p>
-    </li>
-    
-    <li> 
-    <b> Achieving Limited Adaptivity for Multinomial Logistic Bandits </b> 
-    <p> 
-        Sukruta Midigeshi, <b>Tanmay Goyal</b>, Gaurav Sinha
-        <br> <em>RLC 2025 </em>
-        <br> 
-        <b> 
-        <a href="https://arxiv.org/abs/2508.03072">arXiv</a> |  
-        <a href = "/assets/slides/MNL_Bandits.pdf">Slides</a>  |  
-        <a href = "/assets/posters/MNL_Bandits.pdf">Poster</a> 
-        </b>
-    </p>
-    </li>
+<li> <b> Collaborative Threshold Watermarking </b>
+<p>
+Tameem B.*, <b>Anish Ambreth*</b>, Nils L. &nbsp;(*equal contribution)
+<br> <em>ICML 2026</em>
+</p>
+</li>
 
-    <li> <b> Efficient Algorithms for Logistic Contextual Slate Bandits with Bandit Feedback </b> 
-    <p> 
-        <b>Tanmay Goyal</b>, Gaurav Sinha
-        <br> <em>UAI 2025</em>
-        <br> 
-        <b>
-        <a href="https://arxiv.org/abs/2506.13163">arXiv</a> |
-        <a href = "/assets/posters/Slate_Bandits.pdf">Poster</a> 
-        </b>
-    </p>
-    </li>
+<li> <b> Client-Level Defense Placement for Adversarially Robust Federated Reinforcement Learning </b>
+<p>
+<b>Anish Ambreth</b>, Naveen K., Mohsen G.
+<br> <em>Under review · TMLR 2026</em>
+</p>
+</li>
+
+<li> <b> Strategic Client-Level Defense Placement in Mobile Federated Learning </b>
+<p>
+<b>Anish Ambreth</b>, Naveen K., Mohsen G.
+<br> <em>Under review · MobiHoc 2026</em>
+</p>
+</li>
+
+<li> <b> OTPA: Optimal Transport-Based Model Alignment Poisoning in Mobile and Edge Federated Learning </b>
+<p>
+<b>Anish Ambreth</b>, Naveen K., Mohsen G.
+<br> <em>Under review · MobiHoc 2026</em>
+</p>
+</li>
 
 </ol>

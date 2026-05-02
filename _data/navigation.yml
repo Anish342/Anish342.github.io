@@ -1,13 +1,10 @@
 # main links
 main:
-  - title: "Interests"
-    url: /interests/
-
-  - title: "Teaching"
-    url: /teaching/
-
   - title: "Publications"
     url: /publications/
-  
-  # - title: "Curriculum Vitae"
-  #   url: /assets/cv/November_CV.pdf
+
+  - title: "Experience"
+    url: /experience/
+
+  - title: "CV"
+    url: "https://drive.google.com/file/d/1JK6PyUpZ6bh9cbOEhuBWvMHoJL5HUDPH/view?usp=sharing"
