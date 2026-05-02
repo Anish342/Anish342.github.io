@@ -15,7 +15,6 @@ I work at the intersection of machine learning theory and security, with a focus
 <ul>
 <li> Federated Learning and privacy-preserving ML </li>
 <li> Adversarial robustness and model security </li>
-<li> Intellectual property protection of neural networks (watermarking, fingerprinting) </li>
 <li> Uncertainty quantification and probabilistic modeling </li>
 </ul>
 
