@@ -21,4 +21,4 @@ I work at the intersection of machine learning theory and security, with a focus
 
 ### Other Interests
 
-Outside of research, I enjoy following financial markets and quantitative methods — particularly time-series modeling, signal extraction, and market microstructure. I also enjoy cricket, chess, and exploring new places.
+Beyond research, I am deeply interested in quantitative finance. I have worked on alpha factor mining for predictive trading models, options pricing, FX dynamics modeling, and time-series forecasting across internships in the UAE. My long-term goal is to bring the rigor of ML research — particularly around uncertainty, robustness, and probabilistic modeling — into systematic trading and quantitative research.
