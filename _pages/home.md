@@ -30,9 +30,9 @@ You can contact me at: ambrethanish[AT]gmail[DOT]com
 
 <li> <b> Jul '25 </b> : Joined <b> Standard Chartered Ventures </b>, UAE as a ML Quantitative Research Intern</li>
 
-<li> <b> Apr '25 </b> : Joined <b> Dubai Health </b>, Abu Dhabi as a Research Intern</li>
+<li> <b> Apr '25 </b> : Joined <b> Dubai Health </b>, UAE as a Research Intern</li>
 
-<li> <b> Jan '25 </b> : Started as <b> Data Science Intern </b> at ADNOC, Abu Dhabi</li>
+<li> <b> Jan '25 </b> : Started as <b> Data Science Intern </b> at ADNOC, UAE</li>
 
 </ul>
 
