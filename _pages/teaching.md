@@ -14,24 +14,19 @@ share: false
 }
 
 .experience-header {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) max-content;
-  column-gap: 1rem;
-  align-items: baseline;
+  display: block;
 }
 
 .experience-date {
-  white-space: nowrap;
+  display: block;
+  margin-top: 0.1rem;
+  font-size: 0.85em;
+  color: #666;
+  line-height: 1.35;
 }
 
 .experience-list p {
   margin-top: 0.25rem;
-}
-
-@media (max-width: 560px) {
-  .experience-header {
-    grid-template-columns: 1fr;
-  }
 }
 </style>
 
