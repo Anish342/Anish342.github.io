@@ -11,6 +11,9 @@ share: false
 ### 2025
 
 <ul>
+<li> <b> Apr '25 </b> : Joined <b> Dubai Health </b>, UAE as a Research Intern</li>
+
+<li> <b> Jan '25 </b> : Started as <b> Data Science Intern </b> at ADNOC, UAE</li>
 
 <li> <b> Aug '25 </b> : Started as <b> Graduate Teaching Assistant </b> at MBZUAI — assisted faculty with course and lab delivery, assignment support, and grading. </li>
 

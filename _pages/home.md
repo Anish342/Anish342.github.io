@@ -23,16 +23,13 @@ You can contact me at: ambrethanish[AT]gmail[DOT]com
 ## Recent News
 
 <ul>
+<li> <b> Jun '26 </b> : Our paper, <b> Client-Level Defense Placement for Adversarially Robust Federated Reinforcement Learning </b>, has been accepted at <b> TMLR </b>. </li>
 
 <li> <b> Apr '26 </b> : Our paper, <b> Collaborative Threshold Watermarking </b>, has been accepted at <b> ICML 2026 </b>. </li>
 
 <li> <b> Jan '26 </b> : Started as <b> ML Quantitative Research Intern </b> at Vatic Labs, UAE </li>
 
 <li> <b> Jul '25 </b> : Joined <b> Standard Chartered Ventures </b>, UAE as a ML Quantitative Research Intern</li>
-
-<li> <b> Apr '25 </b> : Joined <b> Dubai Health </b>, UAE as a Research Intern</li>
-
-<li> <b> Jan '25 </b> : Started as <b> Data Science Intern </b> at ADNOC, UAE</li>
 
 </ul>
 
