@@ -49,7 +49,7 @@ share: false
 <li>
 <span class="publication-title">Client-Level Defense Placement for Adversarially Robust Federated Reinforcement Learning</span>
 <span class="publication-authors"><b>Anish A.,</b>, Naveen K., Mohsen G.</span>
-<span class="publication-venue">Under review · TMLR 2026</span>
+<span class="publication-venue">TMLR 2026</span>
 </li>
 
 <li>
